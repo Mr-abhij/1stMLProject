@@ -1,4 +1,5 @@
 import sys
+from src.logger import logging
 
 def error_message_detail(error, error_detail: sys):
     _, _, exc_tb = error_detail.exc_info()
@@ -7,7 +8,7 @@ def error_message_detail(error, error_detail: sys):
     error_message = f"Error occurred in script: {file_name} at line number: {line_number} with message: {str(error)}"
     return error_message
 
-class customException(Exception):
+class CustomException(Exception):
     def __init__(self, error_message, error_detail: sys):
         super().__init__(error_message)
         self.error_message = error_message_detail(error_message, error_detail)
