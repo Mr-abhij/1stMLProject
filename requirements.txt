@@ -7,4 +7,5 @@ sickit-learn
 catboost
 xgboost
 dill
+Flask
 -e .
