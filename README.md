@@ -8,11 +8,16 @@ Attributes: gender, race/ethnicity, parental level of education, lunch type, tes
 
 🚀 Key Features:
 *Data preprocessing & EDA (cleaning, encoding categorical features, handling outliers)
+
 *Model training & evaluation using multiple algorithms:
 Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost, Gradient Boosting
+
 *Hyperparameter tuning with GridSearchCV/RandomizedSearchCV
+
 *Selected the best-performing model based on accuracy & evaluation metrics
+
 *Flask web app for real-time prediction from user input
+
 *Modular, production-ready ML pipeline
 
 🛠 Tech Stack
