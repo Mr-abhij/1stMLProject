@@ -6,7 +6,7 @@ A machine learning project that predicts student academic performance/behaviour 
 
 Attributes: gender, race/ethnicity, parental level of education, lunch type, test preparation course, reading score, writing score
 
-🚀 Key Features
+🚀 Key Features:
 *Data preprocessing & EDA (cleaning, encoding categorical features, handling outliers)
 *Model training & evaluation using multiple algorithms:
 Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost, Gradient Boosting
