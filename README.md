@@ -7,6 +7,7 @@ A machine learning project that predicts student academic performance/behaviour 
 Attributes: gender, race/ethnicity, parental level of education, lunch type, test preparation course, reading score, writing score
 
 🚀 Key Features:
+
 *Data preprocessing & EDA (cleaning, encoding categorical features, handling outliers)
 
 *Model training & evaluation using multiple algorithms:
@@ -21,12 +22,17 @@ Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost, Gradient B
 *Modular, production-ready ML pipeline
 
 🛠 Tech Stack
+
 *Languages: Python
 
 *Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, XGBoost
+
 *Web Framework: Flask
+
 *Tools: Jupyter Notebook, Git, Anaconda/Virtualenv
 
 📈 Results
+
 *Compared multiple ML algorithms with hyperparameter tuning
+
 *Best model achieved high accuracy & generalization on test data
