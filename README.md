@@ -22,6 +22,7 @@ Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost, Gradient B
 
 🛠 Tech Stack
 *Languages: Python
+
 *Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, XGBoost
 *Web Framework: Flask
 *Tools: Jupyter Notebook, Git, Anaconda/Virtualenv
